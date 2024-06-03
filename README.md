@@ -1,4 +1,6 @@
 Clothing Store
+
+
 Introduction
 
 Welcome to Wear It Again, an online store built using PHP and MySQL. This README file provides an overview of the store's architecture, installation instructions, troubleshooting tips, and other essential information.
